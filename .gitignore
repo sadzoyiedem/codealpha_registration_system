@@ -1,2 +1,4 @@
 *.exe
 users.txt
+codesnap -main.png
+codesnap-class.png
